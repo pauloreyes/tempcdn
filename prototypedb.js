@@ -35,3 +35,5 @@ var database = {
     	recipient: "Daniel Kim"
 	}
 };
+
+console.log('Done')
