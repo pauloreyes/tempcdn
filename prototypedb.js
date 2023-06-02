@@ -33,7 +33,42 @@ var database = {
     	phone: "555-555-9999",
     	email: "olivia.martinez@example.com",
     	recipient: "Daniel Kim"
-	}
+	},
+	'5555551111': {
+		name: "Alice Smith",
+    	address: "1234 Elm Street, Springfield, IL 62704",
+    	customerID: "R001",
+   	email: "alice.smith@example.com",
+   	recipient: "Bob Johnson"
+	},
+	'5555553333': {
+		name: "John Doe",
+    	address: "5678 Oak Avenue, Chicago, IL 60601",
+    	customerID: "R002",
+    	email: "john.doe@example.com",
+    	recipient: "Jane Brown"
+	},
+	'5555555555': {
+		name: "Emily Williams",
+    	address: "7890 Maple Drive, New York, NY 10001",
+    	customerID: "R003",
+    	email: "emily.williams@example.com",
+    	recipient: "David Wilson"
+	},
+	'5555557777': {
+		name: "Michael Chen",
+    	address: "4321 Cedar Road, San Francisco, CA 94101",
+    	customerID: "R004",
+    	email: "michael.chen@example.com",
+    	recipient: "Sophia Lee"
+	},
+	'5555559999': {
+		name: "Olivia Martinez",
+    	address: "8765 Birch Lane, Los Angeles, CA 90001",
+    	customerID: "R005",
+    	email: "olivia.martinez@example.com",
+    	recipient: "Daniel Kim"
+	},
 };
 
 console.log('Done')
