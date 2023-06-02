@@ -39,6 +39,7 @@ var database = {
     	address: "1234 Elm Street, Springfield, IL 62704",
     	customerID: "R001",
    	email: "alice.smith@example.com",
+	phone: "555-555-1111",
    	recipient: "Bob Johnson"
 	},
 	'5555553333': {
@@ -46,6 +47,7 @@ var database = {
     	address: "5678 Oak Avenue, Chicago, IL 60601",
     	customerID: "R002",
     	email: "john.doe@example.com",
+	phone: "555-555-3333",
     	recipient: "Jane Brown"
 	},
 	'5555555555': {
@@ -53,13 +55,15 @@ var database = {
     	address: "7890 Maple Drive, New York, NY 10001",
     	customerID: "R003",
     	email: "emily.williams@example.com",
-    	recipient: "David Wilson"
+    	phone: "555-555-5555",
+	recipient: "David Wilson"
 	},
 	'5555557777': {
 		name: "Michael Chen",
     	address: "4321 Cedar Road, San Francisco, CA 94101",
     	customerID: "R004",
     	email: "michael.chen@example.com",
+	phone: "555-555-7777",
     	recipient: "Sophia Lee"
 	},
 	'5555559999': {
@@ -67,6 +71,7 @@ var database = {
     	address: "8765 Birch Lane, Los Angeles, CA 90001",
     	customerID: "R005",
     	email: "olivia.martinez@example.com",
+	phone: "555-555-9999",
     	recipient: "Daniel Kim"
 	},
 };
