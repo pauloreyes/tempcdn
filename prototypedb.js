@@ -18,12 +18,12 @@ var database = {
 		recipient: "Bob Johnson",
 		orderHistory: {
 			'OH1': {
-				itemName: "Ultimate Virus Protection",
+				itemName: "Product X",
 				tranDate: "2020-02-01",
 				amount: "$99.95"
 			},
 			'OH2': {
-				itemName: "Family Protect+",
+				itemName: "Product P",
 				tranDate: "2021-01-01",
 				amount: "$39.95"
 			},
