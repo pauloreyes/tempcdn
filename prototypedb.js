@@ -5,7 +5,32 @@ var database = {
     	phone: "555-555-1111",
    		email: "alice.smith@example.com",
    		recipient: "Bob Johnson",
-		orderHistory: "https://google.com"
+		orderHistory: {1:{
+				itemName: "Ultimate Virus Protection",
+				tranDate: "2020-02-01",
+				amount: "$99.95"
+				 },
+			       2: {
+			       	itemName: "Family Protect+",
+				tranDate: "2021-01-01",
+				amount: "$39.95"
+			       },
+			       3: {
+			        itemName: " ",
+				tranDate: " ",
+				amount: " "
+			       },
+			       4: {
+			        itemName: " ",
+				tranDate: " ",
+				amount: " "
+			       },
+			       5: {
+			        itemName: " ",
+				tranDate: " ",
+				amount: " "
+			       }
+			      }
 	},
 	'R002': {
 		name: "John Doe",
