@@ -4,7 +4,8 @@ var database = {
     	address: "1234 Elm Street, Springfield, IL 62704",
     	phone: "555-555-1111",
    		email: "alice.smith@example.com",
-   		recipient: "Bob Johnson"
+   		recipient: "Bob Johnson",
+		orderHistory: "https://google.com"
 	},
 	'R002': {
 		name: "John Doe",
