@@ -14,21 +14,6 @@ var database = {
 			       	itemName: "Family Protect+",
 				tranDate: "2021-01-01",
 				amount: "$39.95"
-			       },
-			       'OH3': {
-			        itemName: " ",
-				tranDate: " ",
-				amount: " "
-			       },
-			       'OH4': {
-			        itemName: " ",
-				tranDate: " ",
-				amount: " "
-			       },
-			       'OH5': {
-			        itemName: " ",
-				tranDate: " ",
-				amount: " "
 			       }
 			      }
 	},
